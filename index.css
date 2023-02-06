@@ -1,0 +1,35 @@
+#one{
+  background-color:#ecf2f9 ;
+}
+.form-floating{
+    border: black solid 2px;
+}
+
+.btns{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.upper{
+    text-transform: uppercase;
+   }
+.lower{
+    text-transform:lowercase;
+   }
+
+   .summary h2{
+     background-color: antiquewhite;
+     display: flex;
+     justify-content: center;
+     padding: 10px;
+   border: solid rgb(250, 140, 140);
+   }
+   .p-tag{
+    margin-top: 20px;
+   }
+   .summary p{
+    display: flex;
+    justify-content: center;
+    font-style:italic;
+    font-size: 20px;
+   }
